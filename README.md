@@ -33,7 +33,7 @@
 
 <div align="center">
 
-<img align="right" alt="Coding" width="400" src="https://user-images.githubusercontent.com/74038190/229223263-cf2e4b07-2615-4f87-9c38-e37600f8381a.gif?autoplay=1">
+<img align="right" alt="Coding" width="400" src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif">
 
 <div align="left" style="width: 50%;">
 
@@ -67,60 +67,6 @@ current_focus:
 👯 **Open to:** Collaborate on Open Source Projects  
 💬 **Ask me about:** Full Stack Dev, AI/ML, Web3  
 ⚡ **Fun fact:** I debug with console.log() 🐛  
-
-</td>
-</tr>
-
-<tr>
-<td>
-
-### 💼 Specialties
-
-<div align="center">
-
-<table>
-<tr>
-<td align="center" width="50%" style="border: none;">
-
-#### 🎨 **Frontend**
-<img src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB"/>
-<img src="https://img.shields.io/badge/Next.js-000?style=for-the-badge&logo=next.js&logoColor=white"/>
-<img src="https://img.shields.io/badge/Flutter-02569B?style=for-the-badge&logo=flutter&logoColor=white"/>
-<img src="https://img.shields.io/badge/TailwindCSS-38B2AC?style=for-the-badge&logo=tailwind-css&logoColor=white"/>
-
-</td>
-<td align="center" width="50%" style="border: none;">
-
-#### ⚙️ **Backend**
-<img src="https://img.shields.io/badge/Laravel-FF2D20?style=for-the-badge&logo=laravel&logoColor=white"/>
-<img src="https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white"/>
-<img src="https://img.shields.io/badge/GraphQL-E10098?style=for-the-badge&logo=graphql&logoColor=white"/>
-<img src="https://img.shields.io/badge/PHP-777BB4?style=for-the-badge&logo=php&logoColor=white"/>
-
-</td>
-</tr>
-<tr>
-<td align="center" width="50%" style="border: none;">
-
-#### 🗄️ **Database**
-<img src="https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white"/>
-<img src="https://img.shields.io/badge/MongoDB-47A248?style=for-the-badge&logo=mongodb&logoColor=white"/>
-<img src="https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white"/>
-
-</td>
-<td align="center" width="50%" style="border: none;">
-
-#### ☁️ **Cloud & DevOps**
-<img src="https://img.shields.io/badge/AWS-232F3E?style=for-the-badge&logo=amazon-aws&logoColor=white"/>
-<img src="https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white"/>
-<img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white"/>
-<img src="https://img.shields.io/badge/CI/CD-00D9FF?style=for-the-badge&logo=github-actions&logoColor=white"/>
-
-</td>
-</tr>
-</table>
-
-</div>
 
 </td>
 </tr>
