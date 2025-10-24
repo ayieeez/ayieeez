@@ -33,10 +33,6 @@
 
 <div align="center">
 
-<img align="right" alt="Coding" width="400" src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif">
-
-<div align="left" style="width: 50%;">
-
 <table>
 <tr>
 <td>
@@ -73,8 +69,6 @@ current_focus:
 </table>
 
 </div>
-
-<br clear="both"/>
 
 <br>
 
