@@ -78,125 +78,65 @@ const ayieeez: Developer = {
 <!-- Divider -->
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
 
-## � Tech Arsenal
-
-<div align="center">
-
-### Frontend Development
-<p>
-  <img src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB" alt="React"/>
-  <img src="https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=next.js&logoColor=white" alt="Next.js"/>
-  <img src="https://img.shields.io/badge/Flutter-02569B?style=for-the-badge&logo=flutter&logoColor=white" alt="Flutter"/>
-  <img src="https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white" alt="TypeScript"/>
-  <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" alt="JavaScript"/>
-  <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" alt="HTML5"/>
-  <img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white" alt="CSS3"/>
-  <img src="https://img.shields.io/badge/Tailwind_CSS-38B2AC?style=for-the-badge&logo=tailwind-css&logoColor=white" alt="TailwindCSS"/>
-</p>
-
-### Backend Development
-<p>
-  <img src="https://img.shields.io/badge/Laravel-FF2D20?style=for-the-badge&logo=laravel&logoColor=white" alt="Laravel"/>
-  <img src="https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white" alt="Node.js"/>
-  <img src="https://img.shields.io/badge/PHP-777BB4?style=for-the-badge&logo=php&logoColor=white" alt="PHP"/>
-  <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" alt="Python"/>
-  <img src="https://img.shields.io/badge/GraphQL-E10098?style=for-the-badge&logo=graphql&logoColor=white" alt="GraphQL"/>
-  <img src="https://img.shields.io/badge/Express.js-000000?style=for-the-badge&logo=express&logoColor=white" alt="Express.js"/>
-</p>
-
-### Database & Cloud
-<p>
-  <img src="https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white" alt="MySQL"/>
-  <img src="https://img.shields.io/badge/MongoDB-47A248?style=for-the-badge&logo=mongodb&logoColor=white" alt="MongoDB"/>
-  <img src="https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white" alt="PostgreSQL"/>
-  <img src="https://img.shields.io/badge/AWS-232F3E?style=for-the-badge&logo=amazon-aws&logoColor=white" alt="AWS"/>
-  <img src="https://img.shields.io/badge/Firebase-FFCA28?style=for-the-badge&logo=firebase&logoColor=black" alt="Firebase"/>
-</p>
-
-### Tools & DevOps
-<p>
-  <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white" alt="Git"/>
-  <img src="https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white" alt="Docker"/>
-  <img src="https://img.shields.io/badge/Nginx-009639?style=for-the-badge&logo=nginx&logoColor=white" alt="Nginx"/>
-  <img src="https://img.shields.io/badge/Apache-D22128?style=for-the-badge&logo=apache&logoColor=white" alt="Apache"/>
-  <img src="https://img.shields.io/badge/VS_Code-007ACC?style=for-the-badge&logo=visual-studio-code&logoColor=white" alt="VS Code"/>
-  <img src="https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white" alt="Postman"/>
-</p>
-
-</div>
-
-<br>
-
-<!-- Divider -->
-<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
-
-## � Featured Projects
+## 🚀 Tech Stack
 
 <div align="center">
 
 <table>
 <tr>
-<td width="50%">
-
-### 🛣️ RoadFix
-[![RoadFix](https://img.shields.io/badge/Visit-Live_Site-00D9FF?style=for-the-badge&logo=google-chrome&logoColor=white)](https://roadfix.me)
-
-**Infrastructure monitoring system for road maintenance and reporting**
-
-`Laravel` `MySQL` `Google Maps API` `Real-time Tracking`
-
-🎯 Smart reporting system with geolocation
-📊 Analytics dashboard for maintenance tracking
-🗺️ Interactive map visualization
-
+<td align="center" width="25%">
+<img src="https://skillicons.dev/icons?i=react,nextjs,typescript,tailwind" /><br/>
+<sub><b>Frontend</b></sub>
 </td>
-<td width="50%">
-
-### ✈️ TravelMate
-[![GitHub](https://img.shields.io/badge/View-GitHub-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/ayieeez/TravelMate)
-
-**Smart travel planning companion with real-time recommendations**
-
-`Flutter` `Node.js` `MongoDB` `AI Recommendations`
-
-🌍 Personalized travel suggestions
-📱 Cross-platform mobile app
-🤖 AI-powered itinerary planning
-
+<td align="center" width="25%">
+<img src="https://skillicons.dev/icons?i=laravel,nodejs,python,graphql" /><br/>
+<sub><b>Backend</b></sub>
 </td>
-</tr>
-
-<tr>
-<td width="50%">
-
-### 🏥 CareTrack
-[![GitHub](https://img.shields.io/badge/View-GitHub-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/ayieeez/CareTrack-Apps)
-
-**Healthcare management system for patient tracking and appointments**
-
-`Flutter` `RESTful API` `MySQL` `Appointment System`
-
-👨‍⚕️ Patient management portal
-📅 Smart appointment scheduling
-📊 Health records tracking
-
+<td align="center" width="25%">
+<img src="https://skillicons.dev/icons?i=mysql,mongodb,postgres,redis" /><br/>
+<sub><b>Database</b></sub>
 </td>
-<td width="50%">
-
-### 🚗 RevCar
-[![GitHub](https://img.shields.io/badge/View-GitHub-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/ayieeez/RevCar)
-
-**Vehicle rental platform with booking management system**
-
-`HTML` `CSS` `JavaScript` `Responsive Design`
-
-🚘 Online vehicle booking system
-💳 Payment integration
-📱 Mobile-responsive interface
-
+<td align="center" width="25%">
+<img src="https://skillicons.dev/icons?i=docker,aws,git,nginx" /><br/>
+<sub><b>DevOps & Tools</b></sub>
 </td>
 </tr>
 </table>
+
+<br>
+
+**Additional Skills:**
+<p>
+<img src="https://img.shields.io/badge/Flutter-02569B?style=flat-square&logo=flutter&logoColor=white" alt="Flutter"/>
+<img src="https://img.shields.io/badge/PHP-777BB4?style=flat-square&logo=php&logoColor=white" alt="PHP"/>
+<img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black" alt="JavaScript"/>
+<img src="https://img.shields.io/badge/Dart-0175C2?style=flat-square&logo=dart&logoColor=white" alt="Dart"/>
+<img src="https://img.shields.io/badge/Firebase-FFCA28?style=flat-square&logo=firebase&logoColor=black" alt="Firebase"/>
+<img src="https://img.shields.io/badge/VS_Code-007ACC?style=flat-square&logo=visual-studio-code&logoColor=white" alt="VS Code"/>
+<img src="https://img.shields.io/badge/Postman-FF6C37?style=flat-square&logo=postman&logoColor=white" alt="Postman"/>
+</p>
+
+</div>
+
+<br>
+<br>
+
+<!-- Divider -->
+<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
+
+## 💼 Featured Projects
+
+<div align="center">
+
+| 🛣️ **RoadFix** | ✈️ **TravelMate** |
+|:---:|:---:|
+| [![Visit](https://img.shields.io/badge/🌐_Live_Site-00D9FF?style=for-the-badge)](https://roadfix.me) | [![GitHub](https://img.shields.io/badge/⚡_GitHub-181717?style=for-the-badge&logo=github)](https://github.com/ayieeez/TravelMate) |
+| *Infrastructure monitoring for road maintenance* | *Smart travel planning with AI recommendations* |
+| ![Laravel](https://img.shields.io/badge/Laravel-FF2D20?style=flat-square&logo=laravel&logoColor=white) ![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=flat-square&logo=mysql&logoColor=white) | ![Flutter](https://img.shields.io/badge/Flutter-02569B?style=flat-square&logo=flutter&logoColor=white) ![Node.js](https://img.shields.io/badge/Node.js-339933?style=flat-square&logo=nodedotjs&logoColor=white) |
+| **🏥 CareTrack** | **🚗 RevCar** |
+| [![GitHub](https://img.shields.io/badge/⚡_GitHub-181717?style=for-the-badge&logo=github)](https://github.com/ayieeez/CareTrack-Apps) | [![GitHub](https://img.shields.io/badge/⚡_GitHub-181717?style=for-the-badge&logo=github)](https://github.com/ayieeez/RevCar) |
+| *Healthcare management & patient tracking* | *Modern vehicle rental platform* |
+| ![Flutter](https://img.shields.io/badge/Flutter-02569B?style=flat-square&logo=flutter&logoColor=white) ![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=flat-square&logo=mysql&logoColor=white) | ![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=flat-square&logo=html5&logoColor=white) ![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=flat-square&logo=css3&logoColor=white) ![JS](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black) |
 
 </div>
 
@@ -241,46 +181,7 @@ const ayieeez: Developer = {
 <!-- Divider -->
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
 
-## 🎯 Current Objectives
-
-<div align="center">
-
-```mermaid
-mindmap
-  root((Muhammad<br/>Izzuddin))
-    Learning
-      Advanced System Design
-      Cloud Architecture (AWS, Azure)
-      AI/ML Integration
-      Web3 & Blockchain
-    Building
-      AI-Powered SaaS Platform
-      Next.js Portfolio with Animations
-      Open Source Contributions
-    Goals
-      Master Microservices
-      Contribute to Major OSS Projects
-      Launch Personal Tech Startup
-      Share Knowledge via Blog
-```
-
-</div>
-
-<br>
-
-**🔥 Active Focus Areas:**
-- 🤖 Building AI-powered web applications with GPT integration
-- ⚡ Creating high-performance Next.js applications
-- 🌐 Exploring Web3 and decentralized applications
-- 📚 Contributing to open-source projects
-- 🎨 Mastering advanced UI/UX animations and interactions
-
-<br>
-
-<!-- Divider -->
-<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
-
-## 🏆 GitHub Trophies
+##  GitHub Trophies
 
 <div align="center">
   <img src="https://github-profile-trophy.vercel.app/?username=ayieeez&theme=tokyonight&no-frame=true&no-bg=true&row=1&column=7" width="100%" alt="Trophy" />
@@ -313,16 +214,6 @@ mindmap
 
 **📧 Reach me at:** [muhammadizzuddin4600@gmail.com](mailto:muhammadizzuddin4600@gmail.com)
 
-<br>
-
-### ☕ Support My Work
-
-If you like my work and want to support me:
-
-<a href="https://www.buymeacoffee.com/ayieeez" target="_blank">
-  <img src="https://cdn.buymeacoffee.com/buttons/v2/default-yellow.png" alt="Buy Me A Coffee" height="50" />
-</a>
-
 </div>
 
 <br>
@@ -332,21 +223,15 @@ If you like my work and want to support me:
 
 <div align="center">
 
-### 💭 Quote of the Day
+### 💭 Developer Quote
 
 <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=tokyonight" alt="Quote"/>
 
 <br><br>
 
-### 🎵 Spotify Playing
-
-[![Spotify](https://novatorem-ayieeez.vercel.app/api/spotify)](https://open.spotify.com/user/31k6gdvqfepz2rg3qluhr5cj7yaq)
-
-<br>
-
 ---
 
-<sub>⭐️ From [ayieeez](https://github.com/ayieeez) | Built with 💙 and ☕ | Last Updated: 2025</sub>
+<sub>⭐️ From [ayieeez](https://github.com/ayieeez) | Crafted with 💙 and ☕ | © 2025</sub>
 
 </div>
 
