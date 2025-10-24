@@ -1,12 +1,43 @@
 <div align="center">
 
-# 👋 Hey there, I'm ayieeez
-
-<img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=32&duration=2800&pause=2000&color=A177F7&center=true&vCenter=true&width=940&lines=Full+Stack+Developer+%F0%9F%9A%80;Creative+Problem+Solver+%F0%9F%92%A1;Open+Source+Enthusiast+%F0%9F%8C%9F;Always+Learning+New+Things+%F0%9F%93%9A" alt="Typing SVG" />
-
-<img src="https://user-images.githubusercontent.com/74038190/212284100-561aa473-3905-4a80-b561-0d28506553ee.gif" width="700">
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=00ff41&customColorList=12&height=250&section=header&text=ayieeez&fontSize=90&fontColor=fff&animation=fadeIn&fontAlignY=38&desc=Full%20Stack%20Developer%20|%20Cyberpunk%20Coder%20|%20Tech%20Enthusiast&descAlignY=55&descSize=20"/>
 
 </div>
+
+<div align="center">
+  
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&size=28&duration=3000&pause=1000&color=00FF41&center=true&vCenter=true&width=600&lines=Welcome+to+my+digital+realm+%F0%9F%8C%90;Building+the+future%2C+one+commit+at+a+time+%F0%9F%9A%80;console.log(%22Hello%2C+World!%22)+%F0%9F%92%BB;Let's+create+something+amazing!+%E2%9C%A8)](https://git.io/typing-svg)
+
+</div>
+
+---
+
+<img align="right" alt="Coding" width="400" src="https://raw.githubusercontent.com/devSouvik/devSouvik/master/gif3.gif">
+
+### 👨‍💻 About Me
+
+```javascript
+const ayieeez = {
+    fullName: "Muhammad Izzuddin",
+    alias: "ayieeez",
+    location: "🌏 Cyberjaya, Malaysia",
+    currentStatus: "🚀 Coding the impossible",
+    
+    code: {
+        languages: ["JavaScript", "TypeScript", "Python", "Java"],
+        frontend: ["React", "Next.js", "Vue", "Tailwind"],
+        backend: ["Node.js", "Express", "Django"],
+        databases: ["MongoDB", "PostgreSQL", "MySQL"],
+        tools: ["Git", "Docker", "VS Code", "Figma"]
+    },
+    
+    currentlyLearning: "AI/ML & Cloud Architecture",
+    hobbies: ["🎮 Gaming", "📱 Tech", "🎨 Design", "☕ Coffee"],
+    funFact: "I turn caffeine into code! ☕→💻"
+};
+```
+
+<br clear="right"/>
 
 ---
 
@@ -14,72 +45,61 @@
 
 ## 🌐 Connect With Me
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/ayieeez)
-[![Twitter](https://img.shields.io/badge/Twitter-%231DA1F2.svg?style=for-the-badge&logo=Twitter&logoColor=white)](https://twitter.com/ayieeez)
-[![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?style=for-the-badge&logo=Instagram&logoColor=white)](https://instagram.com/ayieeez)
-[![Discord](https://img.shields.io/badge/Discord-%235865F2.svg?style=for-the-badge&logo=discord&logoColor=white)](https://discord.com/users/ayieeez)
-[![Portfolio](https://img.shields.io/badge/Portfolio-%23000000.svg?style=for-the-badge&logo=firefox&logoColor=white)](https://ayieeez.dev)
-[![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:ayieeez@example.com)
+<a href="https://www.linkedin.com/in/izzuuuuu/">
+  <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white&color=00ff41&labelColor=0a0a0a" alt="LinkedIn"/>
+</a>
+<a href="https://www.instagram.com/izzuuuuu_">
+  <img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white&color=00ff41&labelColor=0a0a0a" alt="Instagram"/>
+</a>
+<a href="mailto:muhammadizzuddin4600@gmail.com">
+  <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white&color=00ff41&labelColor=0a0a0a" alt="Email"/>
+</a>
+<a href="https://github.com/ayieeez">
+  <img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white&color=00ff41&labelColor=0a0a0a" alt="GitHub"/>
+</a>
 
-![Profile Views](https://komarev.com/ghpvc/?username=ayieeez&color=blueviolet&style=for-the-badge)
+<br><br>
+
+![Profile Views](https://komarev.com/ghpvc/?username=ayieeez&label=PROFILE+VIEWS&color=00ff41&style=for-the-badge)
+![Followers](https://img.shields.io/github/followers/ayieeez?label=FOLLOWERS&style=for-the-badge&color=00ff41&labelColor=0a0a0a)
+![Stars](https://img.shields.io/github/stars/ayieeez?label=STARS&style=for-the-badge&color=00ff41&labelColor=0a0a0a)
 
 </div>
 
 ---
 
-## 💫 About Me
-
-```javascript
-const ayieeez = {
-    location: "🌍 Somewhere on Earth",
-    code: ["JavaScript", "TypeScript", "Python", "Java", "C++"],
-    askMeAbout: ["web dev", "tech", "app dev", "game dev"],
-    technologies: {
-        frontend: ["React", "Next.js", "Vue", "Tailwind CSS"],
-        backend: ["Node.js", "Express", "Django", "FastAPI"],
-        databases: ["MongoDB", "PostgreSQL", "MySQL", "Redis"],
-        devOps: ["Docker", "Kubernetes", "AWS", "CI/CD"],
-        tools: ["Git", "Figma", "VS Code", "Postman"]
-    },
-    currentFocus: "Building scalable applications & exploring AI/ML",
-    funFact: "I debug with console.log() and I'm not ashamed! 🐛"
-};
-```
-
----
+## 🛠️ Tech Arsenal
 
 <div align="center">
 
-## 🛠️ Tech Stack
-
 ### 💻 Languages
-![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E)
-![TypeScript](https://img.shields.io/badge/typescript-%23007ACC.svg?style=for-the-badge&logo=typescript&logoColor=white)
-![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)
-![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=openjdk&logoColor=white)
-![C++](https://img.shields.io/badge/c++-%2300599C.svg?style=for-the-badge&logo=c%2B%2B&logoColor=white)
-![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white)
-![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white)
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black&labelColor=00ff41)
+![TypeScript](https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white&labelColor=00ff41)
+![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white&labelColor=00ff41)
+![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white&labelColor=00ff41)
+![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white&labelColor=00ff41)
+![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white&labelColor=00ff41)
 
-### 🚀 Frameworks & Libraries
-![React](https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB)
-![Next JS](https://img.shields.io/badge/Next-black?style=for-the-badge&logo=next.js&logoColor=white)
-![Vue.js](https://img.shields.io/badge/vuejs-%2335495e.svg?style=for-the-badge&logo=vuedotjs&logoColor=%234FC08D)
-![Node.js](https://img.shields.io/badge/node.js-6DA55F?style=for-the-badge&logo=node.js&logoColor=white)
-![Express.js](https://img.shields.io/badge/express.js-%23404d59.svg?style=for-the-badge&logo=express&logoColor=%2361DAFB)
-![TailwindCSS](https://img.shields.io/badge/tailwindcss-%2338B2AC.svg?style=for-the-badge&logo=tailwind-css&logoColor=white)
+### 🚀 Frontend
+![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB&labelColor=00ff41)
+![Next.js](https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=nextdotjs&logoColor=white&labelColor=00ff41)
+![Vue](https://img.shields.io/badge/Vue.js-35495E?style=for-the-badge&logo=vuedotjs&logoColor=4FC08D&labelColor=00ff41)
+![TailwindCSS](https://img.shields.io/badge/Tailwind_CSS-38B2AC?style=for-the-badge&logo=tailwind-css&logoColor=white&labelColor=00ff41)
+![Bootstrap](https://img.shields.io/badge/Bootstrap-563D7C?style=for-the-badge&logo=bootstrap&logoColor=white&labelColor=00ff41)
 
-### 🗄️ Databases
-![MongoDB](https://img.shields.io/badge/MongoDB-%234ea94b.svg?style=for-the-badge&logo=mongodb&logoColor=white)
-![Postgres](https://img.shields.io/badge/postgres-%23316192.svg?style=for-the-badge&logo=postgresql&logoColor=white)
-![MySQL](https://img.shields.io/badge/mysql-%2300f.svg?style=for-the-badge&logo=mysql&logoColor=white)
-![Redis](https://img.shields.io/badge/redis-%23DD0031.svg?style=for-the-badge&logo=redis&logoColor=white)
+### ⚙️ Backend & Database
+![Node.js](https://img.shields.io/badge/Node.js-43853D?style=for-the-badge&logo=node.js&logoColor=white&labelColor=00ff41)
+![Express](https://img.shields.io/badge/Express.js-404D59?style=for-the-badge&logo=express&logoColor=white&labelColor=00ff41)
+![MongoDB](https://img.shields.io/badge/MongoDB-4EA94B?style=for-the-badge&logo=mongodb&logoColor=white&labelColor=00ff41)
+![PostgreSQL](https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white&labelColor=00ff41)
+![MySQL](https://img.shields.io/badge/MySQL-005C84?style=for-the-badge&logo=mysql&logoColor=white&labelColor=00ff41)
 
-### ☁️ Cloud & DevOps
-![AWS](https://img.shields.io/badge/AWS-%23FF9900.svg?style=for-the-badge&logo=amazon-aws&logoColor=white)
-![Docker](https://img.shields.io/badge/docker-%230db7ed.svg?style=for-the-badge&logo=docker&logoColor=white)
-![Kubernetes](https://img.shields.io/badge/kubernetes-%23326ce5.svg?style=for-the-badge&logo=kubernetes&logoColor=white)
-![GitHub Actions](https://img.shields.io/badge/github%20actions-%232671E5.svg?style=for-the-badge&logo=githubactions&logoColor=white)
+### 🔧 Tools & Platform
+![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white&labelColor=00ff41)
+![GitHub](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white&labelColor=00ff41)
+![VS Code](https://img.shields.io/badge/VS_Code-007ACC?style=for-the-badge&logo=visual-studio-code&logoColor=white&labelColor=00ff41)
+![Docker](https://img.shields.io/badge/Docker-2CA5E0?style=for-the-badge&logo=docker&logoColor=white&labelColor=00ff41)
+![Figma](https://img.shields.io/badge/Figma-F24E1E?style=for-the-badge&logo=figma&logoColor=white&labelColor=00ff41)
 
 </div>
 
@@ -88,16 +108,16 @@ const ayieeez = {
 ## 📊 GitHub Analytics
 
 <div align="center">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=ayieeez&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true&hide_border=true&bg_color=0D1117&title_color=A177F7&icon_color=A177F7"/>
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ayieeez&layout=compact&langs_count=8&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=A177F7"/>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=ayieeez&show_icons=true&theme=chartreuse-dark&include_all_commits=true&count_private=true&hide_border=true&bg_color=0a0a0a&title_color=00ff41&icon_color=00ff41&text_color=ffffff"/>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ayieeez&layout=compact&langs_count=8&theme=chartreuse-dark&hide_border=true&bg_color=0a0a0a&title_color=00ff41&text_color=ffffff"/>
 </div>
 
 <div align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=ayieeez&theme=tokyonight&hide_border=true&background=0D1117&ring=A177F7&fire=A177F7&currStreakLabel=A177F7" alt="GitHub Streak"/>
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=ayieeez&theme=chartreuse-dark&hide_border=true&background=0a0a0a&ring=00ff41&fire=00ff41&currStreakLabel=00ff41&stroke=00ff41" alt="GitHub Streak"/>
 </div>
 
 <div align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=ayieeez&theme=tokyo-night&hide_border=true&bg_color=0D1117&color=A177F7&line=A177F7&point=FFFFFF" alt="Contribution Graph"/>
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=ayieeez&theme=chartreuse-dark&hide_border=true&bg_color=0a0a0a&color=00ff41&line=00ff41&point=ffffff&area=true" alt="Contribution Graph"/>
 </div>
 
 ---
@@ -105,57 +125,107 @@ const ayieeez = {
 ## 🏆 GitHub Trophies
 
 <div align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=ayieeez&theme=tokyonight&no-frame=true&no-bg=true&column=7&margin-w=15&margin-h=15" alt="GitHub Trophies"/>
+  <img src="https://github-profile-trophy.vercel.app/?username=ayieeez&theme=matrix&no-frame=true&no-bg=true&column=7&margin-w=10&margin-h=10" alt="Trophies"/>
 </div>
 
 ---
 
-## 🔥 Recent Activity
-
-<!--START_SECTION:activity-->
-<!--END_SECTION:activity-->
-
----
-
-## 💭 Dev Quote
+## 🎯 Current Focus
 
 <div align="center">
-  <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=tokyonight" alt="Random Dev Quote"/>
+
+```diff
++ 🚀 Building scalable web applications
++ 🤖 Exploring AI/ML integration
++ ☁️ Learning Cloud Architecture (AWS)
++ 🌟 Contributing to Open Source
++ 📱 Mobile App Development with React Native
+```
+
 </div>
 
 ---
 
-## 🎯 2025 Goals
+## 💼 Featured Projects
 
-- 🚀 Contribute to more Open Source projects
-- 📚 Master System Design & Architecture
-- 🤖 Deep dive into AI/ML technologies
-- 🌟 Build products that impact millions
-- 💪 Mentor aspiring developers
+<div align="center">
+
+| Project | Description | Tech Stack | Status |
+|---------|-------------|------------|--------|
+| 🌐 **Portfolio Website** | Personal portfolio with cyberpunk theme | React, Next.js, Tailwind | 🟢 Live |
+| 🛒 **E-Commerce Platform** | Full-stack shopping application | MERN Stack | 🟡 In Progress |
+| 📱 **Social Media App** | Real-time chat & posts platform | React Native, Firebase | 🟢 Live |
+| 🎮 **Gaming Dashboard** | Game stats tracker & analytics | Vue.js, Express | 🟡 In Progress |
+
+</div>
+
+---
+
+## 📈 Contribution Stats
+
+<div align="center">
+
+![](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=ayieeez&theme=chartreuse_dark)
+
+![](https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=ayieeez&theme=chartreuse_dark)
+![](https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=ayieeez&theme=chartreuse_dark)
+
+</div>
+
+---
+
+## 🐍 Contribution Snake
+
+<div align="center">
+  
+![Snake animation](https://github.com/ayieeez/ayieeez/blob/output/github-contribution-grid-snake.svg)
+
+</div>
+
+---
+
+## 💭 Random Dev Quote
+
+<div align="center">
+  
+![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=dark&quote=Code%20is%20like%20humor.%20When%20you%20have%20to%20explain%20it,%20it's%20bad.&author=Cory%20House&border=00ff41)
+
+</div>
+
+---
+
+## 📫 Let's Collaborate!
+
+<div align="center">
+
+I'm always open to interesting conversations and collaboration opportunities!
+
+**💬 Ask me about:** Web Development, JavaScript, React, Node.js, or anything tech!
+
+**🤝 Open for:** Freelance Projects | Open Source | Tech Discussions
+
+**⚡ Fun Fact:** I learned to code by breaking things and Googling error messages! 😄
+
+---
+
+### 🎵 Vibes While Coding
+
+[![Spotify](https://novatorem-ayieeez.vercel.app/api/spotify)](https://open.spotify.com/user/ayieeez)
+
+</div>
 
 ---
 
 <div align="center">
 
-### 💖 Support My Work
+### ⚡ "First, solve the problem. Then, write the code." - John Johnson
 
-If you like what I do, maybe consider buying me a coffee ☕
+<img src="https://raw.githubusercontent.com/Trilokia/Trilokia/379277808c61ef204768a61bbc5d25bc7798ccf1/bottom_header.svg"/>
 
-[![Ko-Fi](https://img.shields.io/badge/Ko--fi-F16061?style=for-the-badge&logo=ko-fi&logoColor=white)](https://ko-fi.com/ayieeez)
-[![PayPal](https://img.shields.io/badge/PayPal-00457C?style=for-the-badge&logo=paypal&logoColor=white)](https://paypal.me/ayieeez)
+<br>
 
----
+**💚 Thanks for visiting! Let's build something amazing together! 💚**
 
-<img src="https://user-images.githubusercontent.com/74038190/212284115-f47e185f-9b98-43d6-8e8e-03b3f8b4f5a7.gif" width="700">
-
-### ⚡ "Code is like humor. When you have to explain it, it's bad." – Cory House
-
-![snake gif](https://github.com/ayieeez/ayieeez/blob/output/github-contribution-grid-snake.svg)
-
----
-
-**💬 Open for collaborations | 🎮 Gaming enthusiast | 📷 Photography lover**
-
-<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=170&section=footer&text=Thanks%20for%20visiting!&fontSize=42&fontColor=fff&animation=twinkling&fontAlignY=72"/>
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=00ff41&customColorList=12&height=120&section=footer"/>
 
 </div>
