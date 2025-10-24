@@ -31,47 +31,83 @@
 
 ## <img src="https://media2.giphy.com/media/QssGEmpkyEOhBCb7e1/giphy.gif?cid=ecf05e47a0n3gi1bfqntqmob8g9aid1oyj2wr3ds3mg700bl&rid=giphy.gif" width="30"> About Me
 
-<img align="right" alt="Coding" width="400" src="https://cdn.dribbble.com/users/1162077/screenshots/3848914/programmer.gif">
+<div align="center">
 
-```typescript
-interface Developer {
-  name: string;
-  role: string;
-  location: string;
-  code: string[];
-  technologies: {
-    frontend: string[];
-    backend: string[];
-    database: string[];
-    tools: string[];
-  };
-  currentFocus: string[];
-  funFact: string;
-}
+<img align="right" alt="Coding" width="400" src="https://user-images.githubusercontent.com/74038190/229223263-cf2e4b07-2615-4f87-9c38-e37600f8381a.gif">
 
-const ayieeez: Developer = {
-  name: "Muhammad Izzuddin",
-  role: "Full Stack Developer",
-  location: "Cyberjaya, Malaysia 🇲🇾",
-  code: ["TypeScript", "JavaScript", "PHP", "Python", "Dart"],
-  technologies: {
-    frontend: ["React", "Next.js", "Flutter", "TailwindCSS"],
-    backend: ["Laravel", "Node.js", "GraphQL", "REST APIs"],
-    database: ["MySQL", "MongoDB", "PostgreSQL"],
-    tools: ["Git", "Docker", "Nginx", "AWS"]
-  },
-  currentFocus: ["AI/ML Integration", "Web3 Development", "System Design"],
-  funFact: "I debug with console.log() and I'm not ashamed! 🐛"
-};
+<div align="left" style="width: 50%;">
+
+<table>
+<tr>
+<td>
+
+### 👨‍💻 Quick Info
+
+```yaml
+name: Muhammad Izzuddin
+role: Full Stack Developer
+location: Malaysia 🇲🇾
+languages: [HTML, CSS, TypeScript, JavaScript, PHP, Python, Dart]
+current_focus:
+  - AI/ML Integration
+  - Web3 Development
+  - System Design
 ```
 
-<br clear="right"/>
+</td>
+</tr>
 
-- 🔭 Currently working on **AI-powered web applications**
-- 🌱 Learning **Advanced System Design & Cloud Architecture**
-- 👯 Open to collaborate on **Open Source Projects**
-- 💬 Ask me about **Full Stack Development, AI/ML, Web3**
-- ⚡ Fun fact: **I turn coffee into code** ☕→💻
+<tr>
+<td>
+
+### 🎯 What I'm Up To
+
+🔭 **Currently:** Building AI-powered web applications  
+🌱 **Learning:** Advanced System Design & Cloud Architecture  
+👯 **Open to:** Collaborate on Open Source Projects  
+💬 **Ask me about:** Full Stack Dev, AI/ML, Web3  
+⚡ **Fun fact:** I debug with console.log() 🐛  
+
+</td>
+</tr>
+
+<tr>
+<td>
+
+### 💼 Specialties
+
+<div align="center">
+
+```mermaid
+mindmap
+  root((Full Stack))
+    Frontend
+      React & Next.js
+      Flutter & Dart
+      TailwindCSS
+    Backend
+      Laravel & PHP
+      Node.js
+      GraphQL & REST
+    Data
+      MySQL
+      MongoDB
+      PostgreSQL
+    Cloud & DevOps
+      AWS
+      Docker
+      CI/CD
+```
+
+</div>
+
+</td>
+</tr>
+</table>
+
+</div>
+
+<br clear="both"/>
 
 <br>
 
@@ -131,10 +167,10 @@ const ayieeez: Developer = {
 | 🛣️ **RoadFix** | ✈️ **TravelMate** |
 |:---:|:---:|
 | [![Visit](https://img.shields.io/badge/🌐_Live_Site-00D9FF?style=for-the-badge)](https://roadfix.me) | [![GitHub](https://img.shields.io/badge/⚡_GitHub-181717?style=for-the-badge&logo=github)](https://github.com/ayieeez/TravelMate) |
-| *Infrastructure monitoring for road maintenance* | *Smart travel planning with AI recommendations* |
-| ![Laravel](https://img.shields.io/badge/Laravel-FF2D20?style=flat-square&logo=laravel&logoColor=white) ![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=flat-square&logo=mysql&logoColor=white) | ![Flutter](https://img.shields.io/badge/Flutter-02569B?style=flat-square&logo=flutter&logoColor=white) ![Node.js](https://img.shields.io/badge/Node.js-339933?style=flat-square&logo=nodedotjs&logoColor=white) |
+| *Infrastructure monitoring for road maintenance* | *Location-based app with weather, maps, currency & news* |
+| ![Laravel](https://img.shields.io/badge/Laravel-FF2D20?style=flat-square&logo=laravel&logoColor=white) ![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=flat-square&logo=mysql&logoColor=white) | ![Node.js](https://img.shields.io/badge/Node.js-339933?style=flat-square&logo=nodedotjs&logoColor=white) ![MongoDB](https://img.shields.io/badge/MongoDB-47A248?style=flat-square&logo=mongodb&logoColor=white) ![API](https://img.shields.io/badge/REST_API-02569B?style=flat-square&logo=fastapi&logoColor=white) |
 | **🏥 CareTrack** | **🚗 RevCar** |
-| [![GitHub](https://img.shields.io/badge/⚡_GitHub-181717?style=for-the-badge&logo=github)](https://github.com/ayieeez/CareTrack-Apps) | [![GitHub](https://img.shields.io/badge/⚡_GitHub-181717?style=for-the-badge&logo=github)](https://github.com/ayieeez/RevCar) |
+| [![GitHub](https://img.shields.io/badge/⚡_GitHub-181717?style=for-the-badge&logo=github)](https://github.com/ayieeez/CareTrack-Apps) | [![Visit](https://img.shields.io/badge/🌐_Live_Site-00D9FF?style=for-the-badge)](https://revcar.onrender.com/) |
 | *Healthcare management & patient tracking* | *Modern vehicle rental platform* |
 | ![Flutter](https://img.shields.io/badge/Flutter-02569B?style=flat-square&logo=flutter&logoColor=white) ![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=flat-square&logo=mysql&logoColor=white) | ![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=flat-square&logo=html5&logoColor=white) ![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=flat-square&logo=css3&logoColor=white) ![JS](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black) |
 
@@ -169,11 +205,7 @@ const ayieeez: Developer = {
 ### 🐍 Contribution Snake
 
 <div align="center">
-  <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="https://github.com/ayieeez/ayieeez/blob/output/github-contribution-grid-snake-dark.svg">
-    <source media="(prefers-color-scheme: light)" srcset="https://github.com/ayieeez/ayieeez/blob/output/github-contribution-grid-snake.svg">
-    <img alt="github contribution grid snake animation" src="https://github.com/ayieeez/ayieeez/blob/output/github-contribution-grid-snake.svg">
-  </picture>
+  <img src="https://raw.githubusercontent.com/ayieeez/ayieeez/output/github-contribution-grid-snake.svg" alt="Snake animation" />
 </div>
 
 <br>
