@@ -23,32 +23,9 @@ jobs:
         with:
           github_user_name: ayieeez
           outputs: |
-            dist/github-contribution-grid-snake.svg
-            dist/github-contribution-grid-snake-dark.svg?palette=github-dark
-            dist/github-contribution-grid-snake-purple.svg?color_snake=#A177F7&color_dots=#0D1117,#1a1b26,#414868,#7aa2f7,#A177F7
-            dist/snake-neon.svg?color_snake=#00ff00&color_dots=#000000,#0a0a0a,#00ff00,#39ff14,#00ff00
+            dist/github-contribution-grid-snake.svg?color_snake=#00ff41&color_dots=#0d1117,#1a0033,#39ff14,#00ffff,#ff00ff
         env:
           GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
-      
-      # THEME CUSTOMIZATION EXAMPLES (uncomment to use):
-      # 
-      # NEON CYBERPUNK:
-      # dist/snake-neon.svg?color_snake=#00ff00&color_dots=#000000,#0a0a0a,#00ff00,#39ff14,#00ff00
-      #
-      # OCEAN BLUE:
-      # dist/snake-ocean.svg?color_snake=#00d4ff&color_dots=#001a33,#003366,#0066cc,#0099ff,#00d4ff
-      #
-      # SUNSET ORANGE:
-      # dist/snake-sunset.svg?color_snake=#ff6b35&color_dots=#1a0a00,#4a1f00,#ff6b35,#ffa07a,#ff8c42
-      #
-      # PINK PARADISE:
-      # dist/snake-pink.svg?color_snake=#ff1493&color_dots=#1a0014,#4d003d,#ff1493,#ff69b4,#ffb6c1
-      #
-      # MINT GREEN:
-      # dist/snake-mint.svg?color_snake=#00ff7f&color_dots=#0a1f0f,#1a4d2e,#4ade80,#86efac,#00ff7f
-      #
-      # FIRE RED:
-      # dist/snake-fire.svg?color_snake=#ff0000&color_dots=#1a0000,#4d0000,#ff0000,#ff4500,#ff6347
       
       - name: Push snake animation to output branch
         uses: crazy-max/ghaction-github-pages@v3.1.0
