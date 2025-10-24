@@ -26,13 +26,14 @@ jobs:
             dist/github-contribution-grid-snake.svg
             dist/github-contribution-grid-snake-dark.svg?palette=github-dark
             dist/github-contribution-grid-snake-purple.svg?color_snake=#A177F7&color_dots=#0D1117,#1a1b26,#414868,#7aa2f7,#A177F7
+            dist/snake-neon.svg?color_snake=#00ff00&color_dots=#000000,#0a0a0a,#00ff00,#39ff14,#00ff00
         env:
           GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
       
       # THEME CUSTOMIZATION EXAMPLES (uncomment to use):
       # 
       # NEON CYBERPUNK:
-      dist/snake-neon.svg?color_snake=#00ff00&color_dots=#000000,#0a0a0a,#00ff00,#39ff14,#00ff00
+      # dist/snake-neon.svg?color_snake=#00ff00&color_dots=#000000,#0a0a0a,#00ff00,#39ff14,#00ff00
       #
       # OCEAN BLUE:
       # dist/snake-ocean.svg?color_snake=#00d4ff&color_dots=#001a33,#003366,#0066cc,#0099ff,#00d4ff
