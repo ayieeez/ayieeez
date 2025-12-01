@@ -44,27 +44,12 @@ name: Muhammad Izzuddin
 role: Full Stack Developer
 location: Malaysia 🇲🇾
 languages: [HTML, CSS, TypeScript, JavaScript, PHP, Python, Dart]
-current_focus:
-  - AI/ML Integration
-  - Web3 Development
-  - System Design
 ```
 
 </td>
 </tr>
 
 <tr>
-<td>
-
-### 🎯 What I'm Up To
-
-🔭 **Currently:** Building AI-powered web applications  
-🌱 **Learning:** Advanced System Design & Cloud Architecture  
-👯 **Open to:** Collaborate on Open Source Projects  
-💬 **Ask me about:** Full Stack Dev, AI/ML, Web3  
-⚡ **Fun fact:** I debug with console.log() 🐛  
-
-</td>
 </tr>
 </table>
 
