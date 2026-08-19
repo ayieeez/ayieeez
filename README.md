@@ -162,7 +162,7 @@ languages: [HTML, CSS, TypeScript, JavaScript, PHP, Python, Dart]
 ##  GitHub Trophies
 
 <div align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=ayieeez&theme=tokyonight&no-frame=true&no-bg=true&row=1&column=7" width="100%" alt="Trophy" />
+  <img src="https://github-trophies.devomb.com/?username=ayieeez&theme=tokyonight&no-frame=true&no-bg=true&row=1&column=7" width="100%" alt="Trophy" />
 </div>
 
 <br>
