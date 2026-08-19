@@ -21,15 +21,12 @@ jobs:
         uses: actions/checkout@v3
       
       - name: Generate snake animation
-        uses: Platane/snk/svg-only@v3
+        uses: dahan8473/snake-and-commits@v1
         with:
-          github_user_name: ayieeez
-          outputs: |
-            dist/github-contribution-grid-snake.svg
-            dist/github-contribution-grid-snake-dark.svg?palette=github-dark
-            dist/github-contribution-grid-snake.svg?palette=github-light&color_snake=#00D9FF&color_dots=#0D1117,#1F6FEB,#39D353,#EBEDF0,#FFFFFF
-        env:
-          GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
+          github_user: ayieeez
+          output: dist/github-contribution-grid-snake.svg
+          theme: matrix
+          frame: false
       
       - name: Push snake animation to output branch
         uses: crazy-max/ghaction-github-pages@v3.1.0
